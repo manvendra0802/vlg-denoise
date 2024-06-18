@@ -11,4 +11,4 @@ Our model has a `main.py` file which takes noisy images as input from the `/test
 The attached report  vlgopenproject.docx clearly explains every part of the code and its functionality.
 
 ## Conclusion
-Our major criterion in this project was the PSNR score, which was evaluated as the benchmark. For our model, we found a (maximum) psnr=23.85 and val_psnr=23.41 while training the'denoising1model.h5' which reduced a bit during fine tuning and training the fine_tuned model .
+Our major criterion in this project was the PSNR score, which was evaluated as the benchmark. For our model, we found a (maximum) psnr=23.85 and val_psnr=23.41 (proof of screenshot given in report)while training the'denoising1model.h5' which reduced a bit during fine tuning and training the fine_tuned model .
